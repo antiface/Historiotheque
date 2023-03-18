@@ -8,3 +8,18 @@
 * In April, 2016, I moved the entire *Art Operation* to a new location, including the *Archives* (containing almost all my artistic and literary production going back to circa 1994-1995);
 * I set up the new and improved __*Historiotheque*__ and began publishing *Official Releases* regularly, via __*Medium.com*__ and __*Twitter*__;
 * I have inhabited and worked in this modular workspace since April,  2016;
+__*The Historiotheque*__ is currently on its [__*Official Release version 3.0.2*__](https://medium.com/historiotheque/the-rebirth-of-the-historiotheque-9680715034cb), and it's running just fine;
+* *The Art Operation* starts up, starts producing art, publishes the lastest version of its *Official Release*, and then gets shut back down again;
+* The reason *the entire operation shuts down* is that it is too destabilizing for me to be so __*PRODUCTIVE*__;
+* I have always been a *prolific* artist, and now *The Art Operation at The Historiotheque* is so prolific when it starts up, that I start to lose sleep and slowly start to experience high levels of disorganization in my thoughts as well as the workspace itself;
+* I then return to a calmer, more *Hygienic* life of doing *Research* and then *Publishing my Documentation*;
+* I am currently in the process of publishing my *Research* and *Documentation*, as well as the *Series* of works I produced while the *Operation* was running;
+* I will be re-lauunching *The Art Operation at The Historiotheque* shortly, after I heal fully from my last bout of disorganization/destabilization;
+* The problem with a high-complexity art operation is that it grows in complexity and causes __*TURBULENCE*__;
+* It causes turbulence for __*ME*__ and it also disturbs/disrupts/perturbs the people and spaces __*AROUND ME*__;
+* So to summarize, *The Historiotheque* starts up and then shuts down at regular intervals, with a new semantic version of the *Official Release* when it starts up again, depending on what level it's reached in its *continuous development*;
+* [...]
+
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
+
+[A.G. (c) 2016-2023. ![A.G. (c) 2016-2023. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
