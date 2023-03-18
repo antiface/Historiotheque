@@ -25,9 +25,25 @@
 ## What is the Historiotheque?:
 * The term *Historiotheque* is a term I made up, basing myself on the Greek __*ἵστωρ (hístōr, “witness”)*__ and __*θήκη (thḗkē, “box, chest”)*__, essentially making it a __*Witness-Box*__;
 * The simple idea was as with the original conception of the *Art-House*, namely, that it would house a *studio space* a.k.a. *The Art Operation* as well as an active *Archive*;
-* The *Archive* would contain the entire documentary of the *Historiotheque* as well as kind of be a *History-House* for the local culture of __*The Historiotheque*__;
+* The *Archive* would contain the entire documentary of the *Historiotheque* as well as kind of be a *History-House* for the local culture of __*The Historiotheque*__, and by *active archive* I meant that you would have archivists working in the archives every day;
+* *The Archivists* would have the basic function of bringing value to the archive, essentially being like a *Library* for all the *Documentation* of the *art practices and work methods* of *The Historiotheque*;
 * In my new vision of *The Historiotheque*, you could have a multiplicity of *Historiotheques* distributed across the land;
 * It was a new kind of *Cultural Institution*, similar to a *Museum*, *Art Gallery*, and *Art Studio/Atelier*, yet different;
+* What made it different was that you had both *The Art Operation* AND *Archives* housed in the same building;
+* Later on, closer to 2009-2010, I began working with another non-profit organization which had a *Workshop Space*;
+* I tried to integrate myself into the *Team*, but was never really able to do anything concrete with them;
+* I did want to provide my services to clean up and rearrange their *Workspace* to make it more efficient and streamlined;
+* I had been studying the principles and theory of [__*Axiomatic Design*__](https://en.wikipedia.org/wiki/Axiomatic_design) and wanted to apply these to their *Workspace*;
+* I never got to doing this, so I just focused on my own *Workspace* and so founded the first official __*Historiotheque*__;
+
+## What happened after that?:
+* Then what happened is that I designed my workspace to be __*MODULAR*__, with what I called *variable geometry*, to borrow a term once used in Quebec for a new theater they built;
+* The space was *modular* in the sense that I could rearrange and reorganize the space *any way I wanted*, to do *anything I wanted*;
+* The space was an *Art Studio/Atelier* during the day, and a *Recording Studio/Sound Laboratory* at night;
+* I had already come up with a *Vision Statement* years prior for what I called __*The DesignWebLabs*__, which I called __*THE PILLARS OF DESIGN*__, a name which I later found out someone else had begun using, so I scrapped that idea;
+* I wanted the *DesignWebLabs* to literally be a design studio, for visual and sound design, that was distributed over space, over any amount of space, i.e. *Globally* and so forth;
+* All the design work would be done over the Internet, so in essence it was a *Distributed Virtual Workspace*;
+* When that idea failed, after writing a functional specification, sharing it online, and trying to get people to help work on this *Project*, I took the *Web* out of *WebLabs* and just made it a *Design Lab*, which I called my *Laboratory* or *Art Operations Control Center*, or just *Art Operation*;
 * [...]
 
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
