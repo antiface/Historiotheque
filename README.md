@@ -51,6 +51,7 @@
 * Now it's running [__*The Historiotheque Official Release v.3.0.2*__](https://medium.com/historiotheque/the-rebirth-of-the-historiotheque-9680715034cb);
 * The *Official Releases* are like the *Operating System* for the *Art Operation*;
 * I'm going over the *Archives* with a fine-tooth comb, looking at all of the *interdisciplinary art-research projects* to find all the golden nuggets that resurface;
+* I am publishing new and old works almost daily on social media, mostly images with accompanying, elucidating text, but also music and sound design;
 * [...]
 
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
