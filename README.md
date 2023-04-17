@@ -50,6 +50,7 @@
 * It was the first thing I set up when I moved here, the *Studio Space* AND the *Archives*;
 * Now it's running [__*The Historiotheque Official Release v.3.0.2*__](https://medium.com/historiotheque/the-rebirth-of-the-historiotheque-9680715034cb);
 * The *Official Releases* are like the *Operating System* for the *Art Operation*;
+* I'm going over the *Archives* with a fine-tooth comb, looking at all of the *interdisciplinary art-research projects* to find all the golden nuggets that resurface;
 * [...]
 
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
