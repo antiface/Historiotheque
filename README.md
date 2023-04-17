@@ -44,6 +44,12 @@
 * I wanted the *DesignWebLabs* to literally be a design studio, for visual and sound design, that was distributed over space, over any amount of space, i.e. *Globally* and so forth;
 * All the design work would be done over the Internet, so in essence it was a *Distributed Virtual Workspace*;
 * When that idea failed, after writing a functional specification, sharing it online, and trying to get people to help work on this *Project*, I took the *Web* out of *WebLabs* and just made it a *Design Lab*, which I called my *Laboratory* or *Art Operations Control Center*, or just *Art Operation*;
+
+## Where is it going?:
+* *The Historiotheque* has been in a new location for the last 7 years;
+* It was the first thing I set up when I moved here, the *Studio Space* AND the *Archives*;
+* Now it's running [__*The Historiotheque Official Release v.3.0.2*__](https://medium.com/historiotheque/the-rebirth-of-the-historiotheque-9680715034cb);
+* The *Official Releases* are like the *Operating System* for the *Art Operation*;
 * [...]
 
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
