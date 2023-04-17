@@ -54,7 +54,6 @@
 * I am publishing new and old works almost daily on social media, mostly images with accompanying, elucidating text, but also music and sound design;
 * I'm also working on brand new projects which will officially be launching soon;
 * I'm trying to write longer pieces on *Medium* about the complex conceptual systems behind *The Historiotheque* and its many *Projects*;
-* *More to come...*
 * [...]
 
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
