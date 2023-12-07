@@ -19,12 +19,14 @@ __*The Historiotheque*__ is currently on its [__*Official Release version 3.0.2*
 * It causes turbulence for __*ME*__ and it also disturbs/disrupts/perturbs the people and spaces __*AROUND ME*__;
 * So to summarize, *The Historiotheque* starts up and then shuts down at regular intervals, with a new semantic version of the *Official Release* when it starts up again, depending on what level it's reached in its *continuous development*;
 
-*[24Nov24.09h50]*
+*[24Nov23.09h50]*
 * I started *Dismantling The (Physical) Archives*, meaning that I am am REDUCING the space it takes, removing what isn't necessary;
 * I'm finishing ALL WORKS WHICH WERE LEFT UNFINISHED DUE TO INTERRUPTIONS/DISRUPTIONS/TURBULENCE;
 * I'm creating __NEW PROJECTS__ put finalizing things on my __METHODOLOGY__ (and __DOCUMENTING EVERYTHING PUBLICLY, LEAVING A EASILY ACCESSIBLE, CITABLE AUDIT TRAIL__);
 * [...]
 
+- - - - - - - - -
+
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
-[A.G. (c) 2016-2023. ![A.G. (c) 2016-2023. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
+[A.G. (c) 2016-2024. ![A.G. (c) 2016-2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
